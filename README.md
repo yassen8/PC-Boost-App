@@ -25,7 +25,7 @@ The code written in this project is from 2024 and I'm not going to update it.
 3. Disables SysMain Startup
 4. Cleans the recycle bin
 5. Cleans temp files (Including Windows temp files, AppData temp files, and Prefetch)
-6. Cleans Windows log file
+6. Cleans Windows log files
 
 ### About SysMain
 
