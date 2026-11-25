@@ -1,8 +1,8 @@
 # PC Booster App
 
-I originally created this project in 2024 for my friend. I decided to upload it on github now (Partially because I'm learning about git and how to use it).
+I originally created this project in 2025 for my friend. I decided to upload it on github now (Partially because I'm learning about git and how to use it).
 
-The code written in this project is from 2024 and I'm not going to update it.
+The code written in this project is from 2025 and I'm not going to update it.
 
 ## **How to run**
 
